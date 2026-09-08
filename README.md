@@ -74,15 +74,6 @@ Currently exploring **NLP, Deep Learning, Computer Vision, Generative AI & Infor
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi081005&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
-### 🔥 Started from scratch.
-
-Lost my previous GitHub account, started over, and kept building.
-
-**~200 contributions in my first two months.**
-
-> *When you can only give up, start again.*
-
----
 
 ## 🤝 Let's Connect
 
