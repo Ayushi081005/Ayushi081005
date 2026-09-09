@@ -96,17 +96,6 @@ Classical image stylization combined with VGG19-based neural style transfer.
 Real-time hand-gesture drawing system using computer vision.
 `OpenCV` `MediaPipe`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
 
 ---
 
