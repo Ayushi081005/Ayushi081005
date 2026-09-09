@@ -101,9 +101,7 @@ Real-time hand-gesture drawing system using computer vision.
 <tr>
 <td width="50%">
 
-**🏛️ CivicConnect**
-NLP-based civic information retrieval system.
-`NLP` `BM25`
+
 
 </td>
 <td width="50%"></td>
