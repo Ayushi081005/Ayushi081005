@@ -1,129 +1,116 @@
 <h1 align="center">Hi, I'm Ayushi Shrivastava 👋</h1>
-<h3 align="center">AI/ML Developer | Deep Learning | NLP | Computer Vision</h3>
 
 <p align="center">
-B.Tech CSE (AI & ML) student at ITM University, Gwalior — currently in my 7th semester.<br/>
-I build AI-powered applications, experiment with deep learning models, and turn research ideas into working projects.
+  <b>AI/ML Developer</b> · Deep Learning · NLP · Computer Vision
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayushi-shrivastava-4b16642ba">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:ayushishrivastava2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+  B.Tech CSE (AI & ML) student at ITM University, Gwalior, currently in my 7th semester.<br/>
+  I turn research ideas into working AI applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushi-shrivastava-4b16642ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushishrivastava2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ayushi081005?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning, ITM University, Gwalior
-- 🔬 Focused on research-oriented AI projects across NLP, Deep Learning, and Computer Vision
-- 🧩 Solid foundation in Python, Java, SQL, and Data Structures & Algorithms
-- 🚀 Working toward becoming a stronger AI/ML Engineer, one project at a time
-- 🌍 Exploring Generative AI, Information Retrieval, and Retrieval-Augmented Generation (RAG)
-
----
-
-### ⚡ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Computer Vision**
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**Backend & Development**
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- 🎓 Studying **Artificial Intelligence & Machine Learning** at ITM University, Gwalior
+- 🔬 Building research-oriented projects across **NLP, Deep Learning, and Computer Vision**
+- 🧩 Strong foundation in **Python, Java, SQL, and Data Structures & Algorithms**
+- 🌍 Exploring **Generative AI, Information Retrieval, and RAG**
+- 🤝 Open to internships, research collaborations, and open-source projects
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🫀 [ECG Arrhythmia Classification](https://github.com/Ayushi081005/ECGArrhythmia)**
-Hybrid CNN-BiLSTM model for classifying heartbeat arrhythmias from ECG signals.
-`PyTorch` `Deep Learning`
+### 🫀 [ECG Arrhythmia Classification](https://github.com/Ayushi081005/ECGArrhythmia)
+Hybrid **CNN-BiLSTM** model that classifies heartbeat arrhythmias from raw ECG signals, combining spatial feature extraction with temporal sequence modeling.
 
-</td>
-<td width="50%">
-
-**✍️ [TextFix AI](https://github.com/Ayushi081005/TextFix-AI-Intelligent-Grammar-Spelling-Correction-System)**
-AI-powered grammar, spelling, and writing-quality analysis tool.
-`NLP` `Flask`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-555?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎨 [Neural Style Transfer](https://github.com/Ayushi081005/NeuralStyleTransfer)**
-Classical image stylization combined with VGG19-based neural style transfer.
-`PyTorch` `OpenCV`
+### ✍️ [TextFix AI](https://github.com/Ayushi081005/TextFix-AI-Intelligent-Grammar-Spelling-Correction-System)
+Intelligent grammar, spelling, and writing-quality analysis system served through a Flask web app.
 
-</td>
-<td width="50%">
-
-**🖐️ [Virtual Canvas](https://github.com/Ayushi081005/VirtualCanvas)**
-Real-time hand-gesture drawing system using computer vision.
-`OpenCV` `MediaPipe`
+![NLP](https://img.shields.io/badge/-NLP-555?style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
+### 🎨 [Neural Style Transfer](https://github.com/Ayushi081005/NeuralStyleTransfer)
+Compares classical image stylization techniques with **VGG19-based** neural style transfer.
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+
+### 🖐️ [Virtual Canvas](https://github.com/Ayushi081005/VirtualCanvas)
+Real-time air-drawing system that tracks hand gestures through a webcam so you can draw without touching anything.
+
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 🌱 Currently Learning
+## ⚡ Tech Stack
 
-`Advanced DSA` • `Deep Learning` • `NLP` • `Transformers` • `RAG` • `Information Retrieval` • `System Design`
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) |
+| **Backend & Web** | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-### 📊 GitHub Activity
+## 🌱 Currently Learning
+
+![Advanced DSA](https://img.shields.io/badge/-Advanced%20DSA-1f6feb?style=flat-square)
+![Transformers](https://img.shields.io/badge/-Transformers-1f6feb?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-1f6feb?style=flat-square)
+![Information Retrieval](https://img.shields.io/badge/-Information%20Retrieval-1f6feb?style=flat-square)
+![System Design](https://img.shields.io/badge/-System%20Design-1f6feb?style=flat-square)
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi081005&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi081005&theme=transparent&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi081005&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Ayushi081005&theme=transparent&hide_border=true" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi081005&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi081005&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 ---
