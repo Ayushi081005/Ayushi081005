@@ -106,11 +106,7 @@ Real-time air-drawing system that tracks hand gestures through a webcam so you c
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushi081005&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=Ayushi081005&theme=transparent&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi081005&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 ---
