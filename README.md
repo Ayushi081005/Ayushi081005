@@ -103,6 +103,24 @@ Real-time air-drawing system that tracks hand gestures through a webcam so you c
 
 ---
 
+## 🏅 LeetCode Badges
+
+<!-- Replace YOUR_LEETCODE_USERNAME below with your LeetCode username -->
+<table align="center">
+<tr>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="150" alt="LeetCode 100 Days Badge"/></td>
+<td align="center"><img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="150" alt="LeetCode 50 Days Badge"/></td>
+<td align="center"><img src="https://leetcode.com/static/images/badges/dcc-2026-10.png" width="150" alt="LeetCode Daily Coding Challenge October 2026 Badge"/></td>
+<td align="center"><img src="https://leetcode.com/static/images/badges/dcc-2026-9.png" width="150" alt="LeetCode Daily Coding Challenge September 2026 Badge"/></td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">View my LeetCode profile →</a>
+</p>
+
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
