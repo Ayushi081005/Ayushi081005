@@ -119,26 +119,4 @@ Real-time air-drawing system that tracks hand gestures through a webcam so you c
   <a href="https://leetcode.com/u/Ayushi081005//">View my LeetCode profile →</a>
 </p>
 
----
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayushi081005&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>Building AI. Learning every day. Shipping projects.</i>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayushi081005&theme=transparent&hide_border=true" height="165"/>
-</p>
-
----
-
-<p align="center">
-  <i>Building AI. Learning every day. Shipping projects.</i>
-</p>
